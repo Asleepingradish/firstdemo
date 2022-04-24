@@ -4,12 +4,7 @@ BossLi到此一游
 6666666
 
 hello,my name is wujinliang
-hello java
-hello java
-hello java
-hello java
-hallo java
-hello java
+
 
 
     狗啊狗啊
