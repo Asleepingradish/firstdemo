@@ -1,6 +1,6 @@
-
-啊哈哈哈哈哈
-6666666
+sdasdasdadsasdada
+啊哈哈哈哈
+5555555555
 啊实打实的
 public static void main(String[] args) {
     int [] nums = {12,13,1,99,56,87};
