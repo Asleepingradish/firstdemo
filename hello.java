@@ -37,3 +37,7 @@ public static void main(String[] args) {
 
     牛啊牛啊
     厉害啊啊
+
+    祝朱老板
+    天天开心
+    年年快乐
