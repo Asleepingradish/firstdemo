@@ -1,24 +1,23 @@
-<<<<<<< HEAD
+hello java
+hello java
+hello java
+hello java
+hello java
+hallo java
+hello java
 
-aoaooaoaoao
-hellojava
-hellojava
-hellojava
-hellojava
-hellojava
-hallojava
-haaaaojava
-hello java!!!
 my name is zhu chu yang
+
 my name is wan tong yu
-lalallalalal
-啊哈哈哈哈哈
-6666666
+
+lalalalala
+啊哈哈哈哈
+6666666666
 啊实打实的
-sdasdasdadsasdada
+huhuhuhuhu
 啊哈哈哈哈
 5555555555
-啊实打实的
+
 public static void main(String[] args) {
     int [] nums = {12,13,1,99,56,87};
     //外层循环控制比较轮数
@@ -37,3 +36,4 @@ public static void main(String[] args) {
     }
 
     牛啊牛啊
+    厉害啊啊
