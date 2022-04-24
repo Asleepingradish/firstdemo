@@ -1,11 +1,8 @@
 sdasdasdadsasdada
-啊哈哈哈哈
-5555555555
+啊哈5555555
 啊实打实的
 public static void main(String[] args) {
     int [] nums = {12,13,1,99,56,87};
-    //外层循环控制比较轮数
-    //每层循环控制每轮比较的次数
     for(int i=1;i<nums.length;i++){
         for(int j=0;j<nums.length-i;j++){
             if(nums[j]>nums[j+1]){
