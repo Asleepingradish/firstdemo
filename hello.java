@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 aoaooaoaoao
 hellojava
@@ -33,4 +32,4 @@ public static void main(String[] args) {
         System.out.println(num);
     }
 
-    牛啊牛啊
+    狗啊狗啊
